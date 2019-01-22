@@ -13,7 +13,7 @@
 
 	<center>
 
-		<h1>Login To Student Repository</h1><br /><br />
+		<h1>Login To OpenShift Student Repository</h1><br /><br />
 
 		<form action="/StudentRepository-1.0/login" method="GET">
 			Username <input type="text" name="username" placeholder="Enter Username" /> <br /> <br />
