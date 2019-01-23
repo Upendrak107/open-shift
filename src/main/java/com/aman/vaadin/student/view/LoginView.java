@@ -31,7 +31,7 @@ public class LoginView extends VerticalLayout implements View {
 
 		this.addStyleName("desktop");
 
-		loginPanel = new Panel("<center>Student Login</center>");
+		loginPanel = new Panel("<center>Login</center>");
 		loginPanel.setSizeUndefined();
 
 		addComponent(loginPanel);
